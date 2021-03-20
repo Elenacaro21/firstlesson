@@ -1,0 +1,63 @@
+<a href="https://www.bbc.co.uk/news/live/uk-56467476"> See this </a>
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Travel Blog">
+    <meta name="Author" content="Elena">
+    <meta name="title" content="My travel journal blog">
+    <title>Travel</title>
+</head>
+
+<body>
+    <a class="weatherwidget-io" href="https://forecast7.com/en/40d71n74d01/new-york/" data-label_1="NEW YORK" data-label_2="WEATHER" data-theme="original">NEW YORK WEATHER</a>
+    <script>
+        ! function(d, s, id) {
+            var js, fjs = d.getElementsByTagName(s)[0];
+            if (!d.getElementById(id)) {
+                js = d.createElement(s);
+                js.id = id;
+                js.src = 'https://weatherwidget.io/js/widget.min.js';
+                fjs.parentNode.insertBefore(js, fjs);
+            }
+        }(document, 'script', 'weatherwidget-io-js');
+    </script>
+
+
+    </ul>
+
+    <center>
+        <h1><b>Todolist</b></h1>
+        <h2>Johnny Cash once wrote a to-do list. Not unlike his songwriting, there wasn’t much room for bush-beating, flower-sniffing and fat-chewing.
+
+            <i></i> was direct and honest and to the point and in some places, facetious. </i>
+        </h2>
+
+        <table border="1px solid black">
+            <thead>
+                <tr>
+                    <td>Size</td>
+                    <td>Color</td>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>4</td>
+                    <td bgcolor="red"> red</td>
+                </tr>
+                <tr>
+                    <td>6</td>
+                    <td bgcolor="blue">blue</td>
+                </tr>
+                <tr>
+                    <td colspan="3">🤦‍♀️</td>
+                    <td> yellow</td>
+                </tr>
+            </tbody>
+
+</body>
+
+</html>
